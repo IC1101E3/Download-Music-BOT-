@@ -1,0 +1,5 @@
+
+﻿pyTelegramBotAPI==4.9.0
+pytube==12.1.2
+yt-dlp==2023.3.4
+
